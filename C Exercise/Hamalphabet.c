@@ -15,4 +15,5 @@ int main() {
     scanf ("%c", &chuin);
 
     printf (" %c ",chucai(chuin));
+    
 }
